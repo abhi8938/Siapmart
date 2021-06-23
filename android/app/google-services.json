@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "958853320676",
+    "firebase_url": "https://siapmart.firebaseio.com",
+    "project_id": "siapmart",
+    "storage_bucket": "siapmart.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:958853320676:android:a0f599c057b561c87441f1",
+        "android_client_info": {
+          "package_name": "com.siapmart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "958853320676-6m08r4s7g7b39fccn0a4gjrfck4cfmru.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.siapmart",
+            "certificate_hash": "572bb9726012a06e32607b46c76a7942dbe5e0c5"
+          }
+        },
+        {
+          "client_id": "958853320676-5c7jk0cus97u2lhpod44pqelkdbf7643.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAF414DJcMgbC2mxPg67Ki8RkgDKLQF2yY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "958853320676-5c7jk0cus97u2lhpod44pqelkdbf7643.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
